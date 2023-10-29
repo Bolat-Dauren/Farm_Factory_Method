@@ -4,20 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="39f63598-ea57-4dda-8989-501029c26d37" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Farm - Fabric pattern.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnimalFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chicken.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ChickenFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CowFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Farm.java" afterDir="false" />
+    <list default="true" id="39f63598-ea57-4dda-8989-501029c26d37" name="Changes" comment="new">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Farm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Farm.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,8 +64,25 @@
       <workItem from="1696937481206" duration="16000" />
       <workItem from="1697443957371" duration="1763000" />
       <workItem from="1697973688016" duration="13000" />
-      <workItem from="1698586010041" duration="1148000" />
+      <workItem from="1698586010041" duration="2143000" />
     </task>
+    <task id="LOCAL-00001" summary="new">
+      <option name="closed" value="true" />
+      <created>1698587286704</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1698587286704</updated>
+    </task>
+    <task id="LOCAL-00002" summary="new">
+      <option name="closed" value="true" />
+      <created>1698587340293</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1698587340293</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -92,5 +98,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="new" />
+    <option name="LAST_COMMIT_MESSAGE" value="new" />
   </component>
 </project>
