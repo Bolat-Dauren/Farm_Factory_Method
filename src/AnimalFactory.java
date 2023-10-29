@@ -1,0 +1,3 @@
+interface AnimalFactory {
+    Animal createAnimal();
+}
